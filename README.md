@@ -1,2 +1,2 @@
-# starship
-starship: the last recovery ; the first open source game for android and ios
+# StarShip The last recovery
+the first open source game for android and ios
